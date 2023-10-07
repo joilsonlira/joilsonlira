@@ -16,7 +16,7 @@
 </div>
 <div style="flex: 2;">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joilsonlira&layout=donut-vertical&hide=python,cython,c)](https://github.com/joilsonlira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joilsonlira&layout=donut-vertical&hide=python,cython,c,c++)](https://github.com/joilsonlira/github-readme-stats)
 
 </div
 </div>
